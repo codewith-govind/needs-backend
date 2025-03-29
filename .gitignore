@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+firebase.json
+
+# Firebase
+firebase-debug.log
+firebase-key.json
+.firebaserc
+
+# Logs
+logs/
+*.log
+
+# Build artifacts
+dist/
+build/
+
+# Database
+firestore.indexes.json
+firestore.rules
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Ignore uploads or temp files
+uploads/
+tmp/
+*.tmp
